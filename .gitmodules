@@ -1,0 +1,3 @@
+[submodule "simple-cookie-demo"]
+	path = simple-cookie-demo
+	url = ./simple-cookie-demo
